@@ -1,6 +1,7 @@
 ---
 title: "A Streetcar Named Desire - Tennessee Williams"
 date: 2021-01-21T22:59:07+01:00
+image: Streetcar.jpg
 draft: false
 ---
 
@@ -12,3 +13,12 @@ This timeless play has been made even more popular by its portrait in the movie 
 
 
 **“A Streetcar Named Desire”** is doubtlessly one of my favourite books, and I would recommend it to anyone who wants to get into reading plays, as it is unique and a perfect example of the craftsmanship of one of the most renowned modern playwrights.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/poezija-drama-i-eseji/a-streetcar-named-desire-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/512268236)

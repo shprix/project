@@ -1,6 +1,7 @@
 ---
 title: "Cat on a Hot Tin Roof - Tennessee Williams"
 date: 2021-01-21T23:02:59+01:00
+image: cat.jpg
 draft: false
 ---
 
@@ -10,3 +11,10 @@ As Big Daddy Pollitt, the richest cotton planter in the delta, inches closer to 
 
 The book rotates around a central theme of mendacity — untruthfulness. Greatly celebrated by the 1958 movie adaptation starring **Paul Newman** as Brick and **Elizabeth Taylor** as Maggie, the play bears secrets that come alight in ways which the movie could not portray in 1950s America, and as such even the expectations of one who has seen the movie may be defied by the transparent reality which Tennessee Williams embedded into his work.
 **“Cat on a Hot Tin Roof”** has for long served as an example of the horror that lies bring to life, making it a play which is not easily forgotten, but lingers for long in the mind as a memo of how easily things can go terribly wrong. To watch the film and read the play is to see the world in the eyes of an honesty long forgotten in the relationships between people. 
+
+
+***This book can be bought  in the bookstore linked below:***
+
+
+[bookstore](https://www.penguin.co.uk/books/57649/cat-on-a-hot-tin-roof/9780141190280.html) 
+

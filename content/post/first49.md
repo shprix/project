@@ -1,6 +1,7 @@
 ---
 title: "The First Forty-nine Stories - Ernest Hemingway"
 date: 2021-01-22T17:23:23+01:00
+image: first49.jpg
 draft: false
 ---
 
@@ -15,3 +16,12 @@ The other forty-five stories are small events, like souvenirs of what was going 
 
 
 I recommend reading the stories after going through a short biography of Hemingway’s life, since as every character is a little piece of the writer, you will be able to locate each story into his life and appreciate how personal they are. Although they are all deserving of immense praise, my two personal favourites are ***“The Capital of the World”*** and ***“Cat in the Rain”***, but also a short paragraph titled ***“Chapter III”***. 
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/klasici/the-snows-of-kilimanjaro-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/2716198)

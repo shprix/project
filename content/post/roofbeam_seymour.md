@@ -1,6 +1,7 @@
 ---
 title: "Raise High the Roof Beam, Carpenters; & Seymour - an Introduction  - J.D. Salinger"
 date: 2021-01-21T22:55:11+01:00
+image: Seymour.jpg
 draft: false
 ---
 
@@ -14,3 +15,12 @@ The second part, **“Seymour — an Introduction”** is far from a story. It i
 
 
 For me this book has great importance because in the wondrous task of writing two books in one about a character without him making more than one appearance, Salinger has illustrated the change in the kind of love that is felt for a person while alive and then when they leave us. As each of his works it tackles mourning in a different yet realistic way.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/beletristika/raise-high-the-roof-beam-carpenters-seymour-an-introduction-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/11982855)

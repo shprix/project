@@ -1,6 +1,7 @@
 ---
 title: "Brave New World - Aldous Huxley"
 date: 2021-01-22T17:29:41+01:00
+image: bravenewworld.jpeg
 draft: false
 ---
 
@@ -18,3 +19,12 @@ This is a novel that bears a great message of individuality, commanding the read
 
 
 I wish all people would read **“Brave New World”** and truly understand it, because it would certainly make for a better future. This is a must of modern literature, and as all good dystopian novels it is not only to be taken as a story but as a warning.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/naucna-fantastika-i-fantazija/brave-new-world-detail) 
+
+
+[library]( https://plus.bh.cobiss.net/opac7/bib/bgsa/4569638)

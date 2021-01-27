@@ -1,6 +1,7 @@
 ---
 title: "The Temple of the Golden Pavilion - Yukio Mishima"
 date: 2021-01-22T17:11:33+01:00
+image: GoldenTemple.jpg
 draft: false
 ---
 
@@ -15,3 +16,12 @@ Mishima was by no means a modern man; in fact, quite on the contrary. He was a r
 
 
 While I do believe that no book should be off limits, I always suggest this book with the warning that it is not to be taken as a lesson or an example, but merely a story that puts into perspective the vision of the world in the eyes of an idealist of another time, and that Mishima’s views, although extremist, should represent no barrier in the enjoyment of this wonderful work.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://www.penguin.co.uk/books/1033478/the-temple-of-the-golden-pavilion/9780099285670.html) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/79070220)

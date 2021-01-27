@@ -1,6 +1,7 @@
 ---
 title: "Kafka on the Shore - Haruki Murakami"
 date: 2021-01-22T17:05:09+01:00
+image: kafka.jpg
 draft: false
 ---
 
@@ -18,3 +19,12 @@ It is important to understand that in this novel time is translucent, and the su
 
 
 For me this was the first of Murakami’s books that I read, and my opinion on fiction and on the need for something unknown and magical in a book has completely changed, and as if that were not enough, **“Kaflka on the Shore”** was awarded the ***World Fantasy Award for 2006.***
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/beletristika/kafka-on-the-shore-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/3470886)

@@ -1,6 +1,7 @@
 ---
 title: "The Teachings of Don Juan - Carlos Castaneda"
 date: 2021-01-22T16:42:16+01:00
+image: donjuan.jpg
 draft: false
 ---
 
@@ -15,3 +16,12 @@ This book was part of a large movement of writing that tended towards exploring 
 
 
 In my experience this book was one of the first steps to opening a gap in the cold world of rationality and shining a light on the immense world of what is unknown to us and yet encompasses us — I would recommend this book and and all other works on this website from this author (see “The Eagle’s Gift”) to people who are struggling with reality and are seeking a new way to look at things, or who are interested in the world of a people that has almost perished.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://www.penguin.co.uk/books/17771/the-teachings-of-don-juan/9780140192384.html) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/2470914)
