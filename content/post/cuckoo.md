@@ -1,6 +1,7 @@
 ---
 title: "One Flew Over the Cuckoo’s Nest - Ken Kesey"
 date: 2021-01-22T17:17:17+01:00
+image: cuckoo.jpg
 draft: false
 ---
 
@@ -16,3 +17,11 @@ The book was largely celebrated after being popularised by the movie directed by
 
 This is a very pride-instilling book that questions the meaning of freedom, and discreetly yet sharply shows how it has been forsaken behind our backs, and what attitude one must take as not to be a servant of power.
 
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/klasici/one-flew-over-the-cuckoo-s-nest-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/51022592)

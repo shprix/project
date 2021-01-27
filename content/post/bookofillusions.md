@@ -1,6 +1,7 @@
 ---
 title: "The Book of Illusions - Paul Auster"
 date: 2021-01-22T17:14:46+01:00
+image: illusions.jpg
 draft: false
 ---
 
@@ -12,3 +13,12 @@ This novel’s greatest achievement is that it maintains a lively and intriguing
 
 
 This definitely is a book for everyone - fun, quick, and at times serious, it serves as a perfect example of what a modern fiction novel should accomplish.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](http://www.buybook.ba/shop/product/1693/the-book-of-illusions) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/13731388)

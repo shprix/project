@@ -1,6 +1,7 @@
 ---
 title: "For Esmé - With Love and Squalor - J.D. Salinger"
 date: 2021-01-21T22:39:03+01:00
+image: ForEsme.jpg
 draft: false 
 ---
 
@@ -12,3 +13,12 @@ While most readers have heard of J.D. Salinger’s “Catcher in the Rye”, a r
 
 
 **“For Esmé - With Love and Squalor”** lives in the reader’s heart somewhere close to sorrow, and even closer to the absurdity of that which is ordinary and extraordinary and in itself makes life unpredictable.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/beletristika/for-esme-with-love-and-squalor-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/11982599)

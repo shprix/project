@@ -10,3 +10,12 @@ The uneventful life of Bilbo Baggins is stirred when the wizard Gandalf recruits
 **“The Hobbit”** was the first book published about **Middle Earth**. Once Tolkien was checking some of his students’ papers when he scribbled onto a black sheet **_“In a hole in the ground there lived a hobbit”_**. Later he went on to tell Bilbo’s story to his son, thus having to write it down as not to forget the details. It is much faster and simpler than **“The Lord or the Rings”**, and first introduces us to the hobbits, the small people inhabiting the shire.
 
 It is a fast and fun book, full of interesting characters and humorous events, and yet amidst all that it speaks of bravery and teaches a lesson not to fear but embrace the opportunities we are given, not to be frightened of stepping into the unknown. Anyone who plans on reading **“The Lord or the Rings”** should read **“The Hobbit”**, as it is a beautiful and can amuse both a child and an adult. It is the first step into Tolkien’s world.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/naucna-fantastika-i-fantazija/the-hobbit-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/20923654)

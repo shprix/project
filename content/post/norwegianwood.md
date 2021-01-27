@@ -1,6 +1,7 @@
 ---
 title: "Norwegian Wood - Haruki Murakami"
 date: 2021-01-22T17:00:42+01:00
+image: norwegianwood.jpg
 draft: false
 ---
 
@@ -18,3 +19,12 @@ While many have criticised Murakami for writing this novel that initially seems 
 
 
 In my experience a book that speaks of the losses and troubles of another is always one that stimulates empathy in oneself, one that forbids indifference — I think everyone ought to read this book, as some things are common to all humans, and grief is certainly one of them. 
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/beletristika/norwegian-wood-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/2254371)

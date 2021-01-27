@@ -1,6 +1,7 @@
 ---
 title: "The Elephant Vanishes - Haruki Murakami"
 date: 2021-01-22T17:08:50+01:00
+image: elephant.jpg
 draft: false
 ---
 
@@ -12,3 +13,12 @@ All stories are united by a need to attack normality and tear it apart, revealin
 
 
 This is what I call a “summer book”, a book that you read on the beach under the sun and let it take you under its wing, a book that will fly by you showing you a side of this author that is buried deep within his greater works but shines through this one.
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/beletristika/the-elephant-vanishes-detail) 
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/21731078)

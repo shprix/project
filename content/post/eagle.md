@@ -1,6 +1,7 @@
 ---
 title: "The Eagle’s Gift - Carlos Castaneda"
 date: 2021-01-22T16:45:09+01:00
+image: eaglesgift.jpg
 draft: false
 ---
 
@@ -21,3 +22,9 @@ While the ideas and rituals described are complex and it is hard at first to fol
 
 
 I suggest this work to anyone who likes the author or has some form of interest in anthropology, as I do for all of his works, and I think it to be equally mind-opening as his first book, even though more complexly structured and plot-centred. 
+
+
+***This book can be borrowed in the library linked below:***
+
+
+[library](https://plus.bh.cobiss.net/opac7/bib/bgsa/32158471)

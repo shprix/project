@@ -1,6 +1,7 @@
 ---
 title: "Who’s Afraid of Virginia Woolf? - Edward Albee"
 date: 2021-01-21T23:08:33+01:00
+image: VirginiaWoolf.jpg
 draft: false
 ---
 
@@ -11,3 +12,9 @@ This play is considered a masterpiece on relationships, a perfect show of the ag
 
 
 This play is also celebrated by one of my favourite movies of all time with **Elizabeth Taylor** and **Richard Burton** as Martha and George, whose adaptation from 1966 is as striking and ruthless as the play itself, possibly because the actors themselves remarried each other twice. I strongly recommend watching it as it can be hard to imagine scenes from a play without having some reference. This play should definitely make its way onto your reading list as it will leave anyone awestruck towards the feeling that it transmits.
+
+
+***This book can be bought in the bookstore linked below:***
+
+
+[bookstore](https://www.penguin.co.uk/books/1033480/who-s-afraid-of-virginia-woolf/9780099285694.html) 

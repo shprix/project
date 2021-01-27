@@ -1,6 +1,7 @@
 ---
 title: "The Lord of the Rings - J. R. R. Tolkien"
 date: 2021-01-22T17:32:19+01:00
+image: lotr.jpg
 draft: false
 ---
 
@@ -18,3 +19,18 @@ There are some books who speak of one thing, and there are some that speak of ev
 
 
 ***“Hail Earendel, brightest of angels, sent over middle-earth to mankind! ”***
+
+
+***This book can be bought or borrowed in the bookstore and library linked below:***
+
+
+[bookstore](https://books.ba/knjizara/naucna-fantastika-i-fantazija/the-hobbit-the-lord-of-the-rings-boxed-set-detail) 
+
+
+[library part 1](https://plus.bh.cobiss.net/opac7/bib/bgsa/2376995)
+
+
+[library part 2](https://plus.bh.cobiss.net/opac7/bib/bgsa/116533772)
+
+
+[library part 3](https://plus.bh.cobiss.net/opac7/bib/bgsa/116535052)
