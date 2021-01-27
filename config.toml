@@ -2,4 +2,4 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Library 2021"
 theme = "newsroom"
-disableDarkMode = true
+paginate=100
