@@ -1,6 +1,7 @@
 ---
 title: "The Hobbit - J. R. R. Tolkien"
 date: 2021-01-22T17:37:05+01:00
+image: images/hobbit.jpg
 draft: false
 ---
 

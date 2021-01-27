@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Library 2021"
-theme = "ananke"
+theme = "newsroom"
+disableDarkMode = true
